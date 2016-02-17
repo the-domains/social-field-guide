@@ -1,4 +1,4 @@
-name: Social Field Guide
+name: The Social Field Guide
 favicon: null
 layout_spectrum: 0.3453955452423543
 typography_spectrum: 0.21301504620350897
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#000000'
+    - '#206a49'
+    - '#fcfef1'
+    - '#a7aab1'
+    - '#d10121'
   brandStrength: 0.47728294180706143
   lightness: 0.3906825822778046
   saturation: 0.8601758724544197
