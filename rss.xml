@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Social Field Guide]]></title>
         <description><![CDATA[The Social Field Guide]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.socialfieldguide.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 23:12:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 03:01:48 GMT</lastBuildDate>
+        <atom:link href="http://www.socialfieldguide.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://quip-page-builder.s3.amazonaws.com/uploads/page_sub_section/image/196/quip_HOME_Graphic-08-05.png?X-Amz-Expires=600&X-Amz-Date=20160422T161137Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAILBFKT3VA2ITFEUA/20160422/us-east-1/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=228035fa782b1acd79c93a165d8ce426201072d599d206ef46a640307f7fdb71">]]></description>
+            <link>http://www.socialfieldguide.com/b2043cb0-edfa-47d4-adc0-22b1298f22fb/index.html</link>
+            <guid isPermaLink="false">b2043cb0-edfa-47d4-adc0-22b1298f22fb</guid>
+            <pubDate>Sat, 23 Apr 2016 03:01:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4940aabe-ab06-4993-ba83-b8ae270a9aa3.jpg">]]></description>
-            <link>undefined5a6287cc-7a67-4ef2-9bc8-1226537369b7/index.html</link>
+            <link>http://www.socialfieldguide.com/5a6287cc-7a67-4ef2-9bc8-1226537369b7/index.html</link>
             <guid isPermaLink="false">5a6287cc-7a67-4ef2-9bc8-1226537369b7</guid>
             <pubDate>Wed, 17 Feb 2016 23:11:15 GMT</pubDate>
         </item>
